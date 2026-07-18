@@ -12,7 +12,11 @@ const skillsData = [
   },
   {
     category: "Ferramentas & DevOps",
-    skills: ["Git", "GitHub", "Docker", "Vercel", "Figma"]
+    skills: ["Git", "GitHub", "Docker", "Vercel", "Figma", "Jira", "Cypress", "Orender"]
+  },
+  {
+    category: "Conhecimento Prévio",
+    skills: ["Java", "Next.Js", "Angular", "WebHooks", "DevOps", "PHP"]
   }
 ];
 
