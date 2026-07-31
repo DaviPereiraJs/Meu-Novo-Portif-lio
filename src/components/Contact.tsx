@@ -64,7 +64,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500 font-medium">Email</p>
-                  <p className="hover:text-violet transition-colors cursor-pointer">dn2128494@gmail.com</p>
+                  <p className="hover:text-violet transition-colors cursor-pointer">dn2025ads@gmail.com</p>
                 </div>
               </div>
 
