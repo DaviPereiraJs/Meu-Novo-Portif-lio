@@ -19,7 +19,7 @@ export function Contact() {
     const text = `Olá Davi! Vim pelo seu portfólio.%0A%0A*Meu nome:* ${name}%0A*Meu email:* ${email}%0A%0A*Mensagem:*%0A${message}`;
     
     // Seu número de telefone (com DDI 55 e DDD 88)
-    const phoneNumber = "5588981522318";
+    const phoneNumber = "5588921830706";
     
     // Cria o link e abre em uma nova aba
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${text}`;
