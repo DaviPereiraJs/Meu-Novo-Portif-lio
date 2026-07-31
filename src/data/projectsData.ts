@@ -55,7 +55,7 @@ export const freelanceProjects: Project[] = [
     id: 6,
     title: 'HC CRIAÇÕES',
     description: 'Plataforma web para gerenciamento e controle de criações, deploy automatizado e foco na experiência do usuário final.',
-    tags: ['React', 'TypeScript', 'Vercel'],
+    tags: ['React', 'TypeScript','CSS Tailwind','Fire Base'],
     image: '/frelas/hc.png',
     liveUrl: '#',
     repoUrl: '#'
@@ -64,7 +64,7 @@ export const freelanceProjects: Project[] = [
     id: 7,
     title: 'LAVA JATO SB',
     description: 'Sistema administrativo freelance para controle de fluxo e serviços de lava-jato, utilizando backend as a service para autenticação e banco.',
-    tags: ['React', 'Supabase'],
+    tags: ['React', 'TypeScript', 'CSS Tailwind', 'Supabase'],
     image: '/frelas/sb.png',
     liveUrl: '#',
     repoUrl: '#'
@@ -73,7 +73,7 @@ export const freelanceProjects: Project[] = [
     id: 8,
     title: 'LAVA JATO JERRY AUTOMOTIVE',
     description: 'Plataforma desenvolvida para o nicho de materiais de construção, gerenciando o ciclo de vida de locações de equipamentos.',
-    tags: ['React', 'Front-end'],
+    tags:  ['React', 'TypeScript', 'CSS Tailwind', 'Supabase'],
     image: '/frelas/jerry.png',
     liveUrl: '#',
     repoUrl: '#'
@@ -121,8 +121,35 @@ export const enterpriseProjects: Project[] = [
     id: 13,
     title: 'SERTANEJA FAPE',
     description: 'Sistema criado em parceria com o Laboratório de Pesquisa e Inovação para o Semiárido (CIDTS) do IFCE Campus Boa Viagem CE. Sistema de gestão para cooperativa com módulo completo para cadastro e controle de cooperados, validações avançadas e integração robusta de banco de dados.',
-    tags: ['React', 'TypeScript', 'PostgreSQL', 'Tailwind CSS', 'Node.js'],
+    tags: ['React', 'TypeScript', 'PostgreSQL', 'Tailwind CSS', 'Docker'],
     image: '/empresas/FAPE.png',
+    liveUrl: '#',
+    repoUrl: '#'
+  },
+  {
+    id: 13,
+    title: 'CETHAP',
+    description: 'Sistema criado em parceria com a empresa Genesis Hitech. Sistema de gestão hidrica com monitoramento de cisternas, controle de comunidades que une hardware como o AQMIND, AQMONITOR e AQFLOW que são senrores que medem em tempo real o volume de águas nas cisternas/reservatórios.',
+    tags: ['React', 'TypeScript', 'PostgreSQL', 'Tailwind CSS', 'Docker'],
+    image: '/empresas/CETHAP.png',
+    liveUrl: '#',
+    repoUrl: '#'
+  },
+  {
+    id: 13,
+    title: 'COLEIRA INTELIGENTE',
+    description: 'Sistema criado em parceria com a empresa Genesis Hitech. Landing page criada para a divulgação do projeto, mostrando todos os beneficios e estatisticas do mesmo. O sistema consiste em uma coleira inteligente capaz de monitorar os sinais vitais do animal, detectar alto estresse e latidos de cães, agindo de forma autônoma para repelir a ameaça e salvar o patrimônio do produtor',
+    tags: ['React', 'TypeScript','Tailwind CSS'],
+    image: '/empresas/COLEIRA.png',
+    liveUrl: '#',
+    repoUrl: '#'
+  },
+  {
+    id: 13,
+    title: 'PREV-FACIL',
+    description: 'Sistema criado em parceria com a empresa Genesis Hitech. Landing page focada na divulgação da empresa onde pela mesma é possivel solicitar emprestimos pessoais, tanto para aposentados, pessoas CLT e tudo mais.',
+    tags: ['React', 'TypeScript','Tailwind CSS',],
+    image: '/empresas/PREVI.png',
     liveUrl: '#',
     repoUrl: '#'
   }
