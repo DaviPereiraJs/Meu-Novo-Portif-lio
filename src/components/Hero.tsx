@@ -15,7 +15,7 @@ export function Hero() {
             className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm mb-8"
           >
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-            <span className="text-xs font-medium text-gray-300">Disponível para novos projetos freela</span>
+            <span className="text-xs font-medium text-gray-300">Disponível para novos projetos freelancer</span>
           </motion.div>
 
           <motion.h1 
@@ -36,7 +36,7 @@ export function Hero() {
             transition={{ delay: 0.4 }}
             className="text-lg text-gray-400 max-w-lg mb-10"
           >
-            Desenvolvedor Front-end focado em criar experiências digitais de alto impacto, combinando design impecável com código limpo e escalável.
+            Desenvolvedor Full Stack com foco em Front-end, criando experiências digitais de alto impacto, combinando design impecável com código limpo e escalável.
           </motion.p>
 
           <motion.div 
@@ -52,7 +52,7 @@ export function Hero() {
               <Linkedin className="w-6 h-6" />
             </a>
             {/* Adicionado o mailto: aqui */}
-            <a href="mailto:dn2128494@gmail.com" className="p-3 rounded-xl border border-white/10 bg-white/5 hover:bg-white/10 hover:border-violet/50 hover:text-violet transition-all duration-300">
+            <a href="mailto:dn2025ads@gmail.com" className="p-3 rounded-xl border border-white/10 bg-white/5 hover:bg-white/10 hover:border-violet/50 hover:text-violet transition-all duration-300">
               <Mail className="w-6 h-6" />
             </a>
           </motion.div>
